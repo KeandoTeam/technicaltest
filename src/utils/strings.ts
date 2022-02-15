@@ -1,0 +1,15 @@
+export const Strings = {
+    email: 'Correo Electrónico',
+    password: 'Contraseña',
+    introduceYour: 'Introduce tu',
+    login: 'Ingresar',
+    userError: 'Error al cargar usuario',
+    ok: 'Ok',
+    you: ` (Tú)`,
+    addVechicle: 'Agregar Vehículo',
+    history: 'Historial',
+    reserva: 'Reservas',
+    myVehicles: 'Mis Vehículos',
+    myParqueaderos: 'Mis Parqueaderos',
+    configuration: 'Configuración',
+}
