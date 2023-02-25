@@ -1,5 +1,5 @@
 from django import forms
-
+# validator for created user
 class myValidateUserCreate(forms.Form) :
     
     fullname = forms.CharField(max_length=100)
